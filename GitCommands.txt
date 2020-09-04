@@ -9,3 +9,10 @@
 5. git pull
 
 6. git push -u origin master
+
+
+To remove a file from the repository use 
+
+1. git rm filename.txt
+
+2. git commit -m "file deleted"
